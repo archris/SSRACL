@@ -189,6 +189,7 @@
 ^(.*\.)?wikimedia\.com$
 ^(.*\.)?wikipedia\.com$
 ^(.*\.)?wikipedia\.org$
+^(.*\.)?wikiwand\.com$
 ^(.*\.)?wordpress\.com$
 ^(.*\.)?workflow\.is$
 ^(.*\.)?workflowy\.com$
