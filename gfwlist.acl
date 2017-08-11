@@ -59,6 +59,7 @@
 ^(.*\.)?dropboxstatic\.com$
 ^(.*\.)?dropboxusercontent\.com$
 ^(.*\.)?dueappblog\.com$
+^(.*\.)?dw\.com$
 ^(.*\.)?engadget\.com$
 ^(.*\.)?exile90software\.com$
 ^(.*\.)?fabric\.io$
