@@ -38,6 +38,7 @@
 ^(.*\.)?blogsmithmedia\.com$
 ^(.*\.)?bloomberg\.com$
 ^(.*\.)?bootstrapcdn\.com$
+^(.*\.)?cambridge\.org$
 ^(.*\.)?cccat\.cc$
 ^(.*\.)?cdninstagram\.com$
 ^(.*\.)?cdnst\.net$
