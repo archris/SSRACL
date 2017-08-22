@@ -183,6 +183,8 @@
 ^(.*\.)?uploadhouse\.com$
 ^(.*\.)?urbanairship\.com$
 ^(.*\.)?vanillicon\.com$
+^(.*\.)?voachinese\.com$
+^(.*\.)?voanews\.com$
 ^(.*\.)?vsco\.co$
 ^(.*\.)?vultr\.com$
 ^(.*\.)?w\.org$
