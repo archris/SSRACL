@@ -45,6 +45,7 @@
 ^(.*\.)?goo\.gl$
 ^(.*\.)?gstatic\.com$
 ^(.*\.)?hotcom-web\.com$
+^(.*\.)?ift\.tt$
 ^(.*\.)?instagram\.com$
 ^(.*\.)?instapaper\.com$
 ^(.*\.)?issuu\.com$
