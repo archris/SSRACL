@@ -58,6 +58,8 @@
 ^(.*\.)?megaupload\.com$
 ^(.*\.)?mingjingnews\.com$
 ^(.*\.)?nssurge\.com$
+^(.*\.)?nyti\.ms$
+^(.*\.)?nytimes\.com$
 ^(.*\.)?onedrive\.com$
 ^(.*\.)?parse\.com$
 ^(.*\.)?pinterest\.com$
@@ -97,5 +99,4 @@
 ^(.*\.)?wikiwand\.com$
 ^(.*\.)?ying\.com$
 ^(.*\.)?youtu\.be$
-^(.*\.)?youtube-nocookie\.com$
 ^(.*\.)?youtube\.com$
