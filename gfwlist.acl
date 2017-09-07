@@ -48,6 +48,7 @@
 ^(.*\.)?gstatic\.com$
 ^(.*\.)?hotcom-web\.com$
 ^(.*\.)?ift\.tt$
+^(.*\.)?imgur\.com$
 ^(.*\.)?instagram\.com$
 ^(.*\.)?instapaper\.com$
 ^(.*\.)?issuu\.com$
@@ -99,7 +100,6 @@
 ^(.*\.)?wikipedia\.com$
 ^(.*\.)?wikipedia\.org$
 ^(.*\.)?wikiwand\.com$
-^(.*\.)?yimg\.com$
 ^(.*\.)?ytimg\.com$
 ^(.*\.)?youtu\.be$
 ^(.*\.)?youtube\.com$
