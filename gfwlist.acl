@@ -8,8 +8,9 @@
 149.154.164.0/22
 149.154.168.0/22
 149.154.172.0/22
-^(.*\.)?google(\..*)?
+^(.*\.)?abclite(\..*)?
 ^(.*\.)?blogspot(\..*)?
+^(.*\.)?google(\..*)?
 ^(.*\.)?android\.com$
 ^(.*\.)?appspot\.com$
 ^(.*\.)?archive\.org$
@@ -100,6 +101,7 @@
 ^(.*\.)?wikipedia\.com$
 ^(.*\.)?wikipedia\.org$
 ^(.*\.)?wikiwand\.com$
+^(.*\.)?xgaytube\.tv$
 ^(.*\.)?ytimg\.com$
 ^(.*\.)?youtu\.be$
 ^(.*\.)?youtube\.com$
