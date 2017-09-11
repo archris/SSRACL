@@ -104,3 +104,4 @@
 ^(.*\.)?youtu\.be$
 ^(.*\.)?youtube\.com$
 zh.wikipedia\.org$
+zh.m.wikipedia\.org$
