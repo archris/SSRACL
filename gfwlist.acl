@@ -98,11 +98,9 @@
 ^(.*\.)?voanews\.com$
 ^(.*\.)?vultr\.com$
 ^(.*\.)?whatsapp\.com$
-^(.*\.)?wikileaks\.org$
-^(.*\.)?wikipedia\.com$
-^(.*\.)?wikipedia\.org$
-^(.*\.)?wikiwand\.com$
+^(.*\.)?wikileaks\.org$s
 ^(.*\.)?xgaytube\.tv$
 ^(.*\.)?ytimg\.com$
 ^(.*\.)?youtu\.be$
 ^(.*\.)?youtube\.com$
+zh.wikipedia\.org$
