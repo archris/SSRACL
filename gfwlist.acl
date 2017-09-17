@@ -97,6 +97,7 @@ zh.m.wikipedia\.org$
 ^(.*\.)?twitch\.tv$
 ^(.*\.)?twitpic\.com$
 ^(.*\.)?twitter\.com$
+^(.*\.)?twitthat\.com$
 ^(.*\.)?voachinese\.com$
 ^(.*\.)?voanews\.com$
 ^(.*\.)?vultr\.com$
