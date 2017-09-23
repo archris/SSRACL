@@ -103,6 +103,7 @@ zh.m.wikipedia\.org$
 ^(.*\.)?voanews\.com$
 ^(.*\.)?vultr\.com$
 ^(.*\.)?whatsapp\.com$
+^(.*\.)?whatsapp\.net$
 ^(.*\.)?wikileaks\.org$s
 ^(.*\.)?xgaytube\.tv$
 ^(.*\.)?ytimg\.com$
