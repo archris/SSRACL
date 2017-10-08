@@ -104,8 +104,6 @@ zh.m.wikipedia\.org$
 ^(.*\.)?voachinese\.com$
 ^(.*\.)?voanews\.com$
 ^(.*\.)?vultr\.com$
-^(.*\.)?whatsapp\.com$
-^(.*\.)?whatsapp\.net$
 ^(.*\.)?wikileaks\.org$s
 ^(.*\.)?xgaytube\.tv$
 ^(.*\.)?ytimg\.com$
