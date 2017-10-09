@@ -13,6 +13,7 @@ zh.m.wikipedia\.org$
 ^(.*\.)?abclite(\..*)?
 ^(.*\.)?blogspot(\..*)?
 ^(.*\.)?google(\..*)?
+^(.*\.)?ampproject\.org$
 ^(.*\.)?android\.com$
 ^(.*\.)?appspot\.com$
 ^(.*\.)?archive\.org$
@@ -26,7 +27,6 @@ zh.m.wikipedia\.org$
 ^(.*\.)?chinadigitaltimes\.net$
 ^(.*\.)?chromium\.org$
 ^(.*\.)?cloudflare\.com$
-^(.*\.)?crashlytics\.com$
 ^(.*\.)?demdex\.com$
 ^(.*\.)?dropbox\.com$
 ^(.*\.)?dropboxapi\.com$
